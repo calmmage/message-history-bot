@@ -7,7 +7,7 @@ Now, let's add more features!
 - move dp.update.outer_middleware to setup_dispatcher? or somewhere ... 
 - move to plugin 'message_history'
   - config to enable/disable plugin
-  - import dependencies only on ...
+  - import dependencies only on ... init of the plugin
   - 
 - use app somehow? 
 
